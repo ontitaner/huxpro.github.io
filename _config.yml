@@ -72,7 +72,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "会者定离,一期一折"
-sidebar-avatar: /img/ontitaner-wx      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ontitaner-wx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
